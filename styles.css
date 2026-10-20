@@ -94,3 +94,6 @@ address{font-style:normal;font-size:1.15rem;margin-bottom:10px}
 .grid img{transition:transform .3s}.grid img:hover{transform:scale(1.02)}
 
 .map iframe{width:100%;aspect-ratio:4/3;border:0;filter:grayscale(1) invert(.92) contrast(.9)}
+
+.socials-inline{justify-content:flex-start;gap:28px;padding:26px 0 0;background:none}
+@media (max-width:760px){.socials-inline{justify-content:center}}
