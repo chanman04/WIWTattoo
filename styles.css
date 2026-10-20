@@ -92,3 +92,5 @@ address{font-style:normal;font-size:1.15rem;margin-bottom:10px}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .grid img{transition:transform .3s}.grid img:hover{transform:scale(1.02)}
+
+.map iframe{width:100%;aspect-ratio:4/3;border:0;filter:grayscale(1) invert(.92) contrast(.9)}
